@@ -1,0 +1,15 @@
+<ul id="post-list">
+  {% for post in paginator.posts %}
+  <li>
+    <article class="post">
+      <section id="post-body">
+        {{post.content}}
+      </section>
+    </article>
+  </li>
+  {% endfor %}
+</ul>
+
+{% if paginator.previous_page or paginator.next_page %}
+  {% include pagination.html %}
+{% endif %}

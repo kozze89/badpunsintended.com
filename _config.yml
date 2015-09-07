@@ -1,0 +1,42 @@
+name: Bad Puns Intended
+description: "Puns that will make you cringe, cry and exhale way too much air"
+meta_description: "Bad puns intended, puns that will make you cringe, cry and exhale way too much air"
+
+aboutPage: false
+
+markdown: redcarpet
+highlighter: pygments
+
+paginate: 50
+baseurl: /
+domain_name: 'http://badpunsintended.com'
+google_analytics: 'UA-XXXXXXXX-X'
+disqus: false
+disqus_shortname: 'your-disqus-shortname'
+
+# Details for the RSS feed generator
+url:            'http://badpunsintended.com'
+author:         ''
+authorTwitter:  'philosonerd'
+
+permalink:       /:year/:title/
+
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
+    -
+        scope:
+            path: ""
+            type: drafts
+        values:
+            layout: post
