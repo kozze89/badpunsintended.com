@@ -1,0 +1,7 @@
+---
+date:   2015-09-05 12:00:00
+---
+
+# Pun of the day ({{ page.date | date: "%F" }})
+
+![Carrot](/assets/images/puns/carrot.png)

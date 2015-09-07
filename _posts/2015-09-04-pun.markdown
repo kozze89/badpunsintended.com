@@ -1,0 +1,9 @@
+---
+date:   2015-09-04 12:00:00
+---
+
+# Pun of the day ({{ page.date | date: "%F" }})
+
+Choosing the part of the Scarecrow was a no brainer!
+
+
