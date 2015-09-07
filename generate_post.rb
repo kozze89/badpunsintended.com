@@ -18,7 +18,7 @@ def remove_joke(jokes, joke)
 end
 
 def write_post(post)
-  File.open('_posts/' + Time.now.strftime('%F') + '-pun-temp.markdown', 'w+') do |f|
+  File.open('_posts/' + Time.now.strftime('%F') + '-pun.markdown', 'w+') do |f|
     f.puts(post)
   end
 end
@@ -39,10 +39,11 @@ def generate
   joke = jokes.sample
 
   post = template(joke)
-  #remove_joke(jokes, joke)
+  remove_joke(jokes, joke)
 
   write_post(post)
   build_site
+  push
 end
 
 

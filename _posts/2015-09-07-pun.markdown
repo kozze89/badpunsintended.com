@@ -4,4 +4,5 @@ date:   2015-09-07 12:00:00
 
 # Pun of the day ({{ page.date | date: "%F" }})
 
-Improperly folded envelopes are fixed in post production.
+Did you hear about the cross-eyed teacher who lost her job because she couldn’t control her pupils?
+
