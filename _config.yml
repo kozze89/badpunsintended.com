@@ -10,7 +10,7 @@ highlighter: pygments
 paginate: 50
 baseurl: /
 domain_name: 'http://badpunsintended.com'
-google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-67280528-1'
 disqus: false
 disqus_shortname: 'your-disqus-shortname'
 
