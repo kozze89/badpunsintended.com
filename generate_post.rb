@@ -33,9 +33,17 @@ def push
   system('git push origin gh-pages')
 end
 
+def send_mail_warning
+  # TODO: Implement warning
+  puts "No more jokes! Need more jokes!"
+end
+
 def generate
 
   jokes = read_jokes
+
+  return send_mail_warning unless jokes.count
+
   joke = jokes.sample
 
   post = template(joke)
