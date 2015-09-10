@@ -1,0 +1,8 @@
+---
+date:   2015-09-10 12:00:00
+---
+
+# Pun of the day ({{ page.date | date: "%F" }})
+
+Where do you find giant snails? On the ends of giant’s fingers.
+
