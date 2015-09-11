@@ -1,0 +1,8 @@
+---
+date:   2015-09-11 12:00:00
+---
+
+# Pun of the day ({{ page.date | date: "%F" }})
+
+I’m reading a book about anti-gravity. I just can’t put it down.
+
