@@ -1,0 +1,8 @@
+---
+date:   2015-09-15 12:00:00
+---
+
+# Pun of the day ({{ page.date | date: "%F" }})
+
+I used to be a banker, but then I lost interest.
+
