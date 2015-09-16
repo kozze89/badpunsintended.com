@@ -1,0 +1,8 @@
+---
+date:   2015-09-16 12:00:00
+---
+
+# Pun of the day ({{ page.date | date: "%F" }})
+
+Be kind to your dentist. He has fillings, too.
+
