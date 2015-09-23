@@ -1,0 +1,8 @@
+---
+date:   2015-09-23 12:00:00
+---
+
+# Pun of the day ({{ page.date | date: "%F" }})
+
+A dog with his leg wrapped in bandages hobbles into a saloon. He sidles up to the bar and announces “I’m lookin’ fer the man who shot my paw.”
+
