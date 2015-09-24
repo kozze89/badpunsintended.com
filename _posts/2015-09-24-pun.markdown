@@ -1,0 +1,8 @@
+---
+date:   2015-09-24 12:00:00
+---
+
+# Pun of the day ({{ page.date | date: "%F" }})
+
+What is the purpose of reindeer? It makes the grass grow, sweetie.
+
