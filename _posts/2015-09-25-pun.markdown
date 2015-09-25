@@ -1,0 +1,8 @@
+---
+date:   2015-09-25 12:00:00
+---
+
+# Pun of the day ({{ page.date | date: "%F" }})
+
+When you get a bladder infection urine trouble.
+
