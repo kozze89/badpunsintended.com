@@ -1,0 +1,8 @@
+---
+date:   2015-09-29 12:00:00
+---
+
+# Pun of the day ({{ page.date | date: "%F" }})
+
+I used to work in a blanket factory, but it folded.
+
