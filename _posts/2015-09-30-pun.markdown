@@ -1,0 +1,8 @@
+---
+date:   2015-09-30 12:00:00
+---
+
+# Pun of the day ({{ page.date | date: "%F" }})
+
+Corduroy pillows are making headlines.
+
