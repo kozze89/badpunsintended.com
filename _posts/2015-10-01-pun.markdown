@@ -1,0 +1,8 @@
+---
+date:   2015-10-01 12:00:00
+---
+
+# Pun of the day ({{ page.date | date: "%F" }})
+
+Why is Saudi Arabia free of mental illness? There are nomad people there.
+
