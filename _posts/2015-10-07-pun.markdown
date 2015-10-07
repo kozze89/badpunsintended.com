@@ -1,0 +1,8 @@
+---
+date:   2015-10-07 12:00:00
+---
+
+# Pun of the day ({{ page.date | date: "%F" }})
+
+What’s the definition of a will? (Come on, it’s a dead giveaway!)
+
