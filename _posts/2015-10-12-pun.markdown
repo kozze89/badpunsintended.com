@@ -1,0 +1,8 @@
+---
+date:   2015-10-12 12:00:00
+---
+
+# Pun of the day ({{ page.date | date: "%F" }})
+
+We are going on a class trip to the Coca-Cola factory. I hope there’s no pop quiz.
+
