@@ -1,0 +1,8 @@
+---
+date:   2015-10-13 12:00:00
+---
+
+# Pun of the day ({{ page.date | date: "%F" }})
+
+A man’s home is his castle, in a manor of speaking.
+
