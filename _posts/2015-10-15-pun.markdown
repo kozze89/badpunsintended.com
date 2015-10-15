@@ -1,0 +1,8 @@
+---
+date:   2015-10-15 12:00:00
+---
+
+# Pun of the day ({{ page.date | date: "%F" }})
+
+Four fonts walk into a bar. The barman says “Hey get out! We don’t want your type in here!”
+
