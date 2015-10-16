@@ -1,0 +1,8 @@
+---
+date:   2015-10-16 12:00:00
+---
+
+# Pun of the day ({{ page.date | date: "%F" }})
+
+A gossip is someone with a great sense of rumour.
+
