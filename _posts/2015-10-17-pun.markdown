@@ -1,0 +1,8 @@
+---
+date:   2015-10-17 12:00:00
+---
+
+# Pun of the day ({{ page.date | date: "%F" }})
+
+Is a book on voyeurism a peeping tome?
+
