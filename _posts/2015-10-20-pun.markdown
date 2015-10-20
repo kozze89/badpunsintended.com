@@ -1,0 +1,8 @@
+---
+date:   2015-10-20 12:00:00
+---
+
+# Pun of the day ({{ page.date | date: "%F" }})
+
+I tried to catch some fog, but I mist.
+
