@@ -1,0 +1,8 @@
+---
+date:   2015-10-23 12:00:00
+---
+
+# Pun of the day ({{ page.date | date: "%F" }})
+
+Haunted French pancakes give me the crepes.
+
