@@ -1,0 +1,8 @@
+---
+date:   2015-10-24 12:00:00
+---
+
+# Pun of the day ({{ page.date | date: "%F" }})
+
+They told me I had type-A blood, but it was a Type-O.
+
