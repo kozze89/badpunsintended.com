@@ -1,0 +1,8 @@
+---
+date:   2015-10-25 12:00:00
+---
+
+# Pun of the day ({{ page.date | date: "%F" }})
+
+When a clock is hungry it goes back four seconds.
+
