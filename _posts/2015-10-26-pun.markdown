@@ -1,0 +1,8 @@
+---
+date:   2015-10-26 12:00:00
+---
+
+# Pun of the day ({{ page.date | date: "%F" }})
+
+I dropped out of communism class because of lousy Marx.
+
