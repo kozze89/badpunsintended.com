@@ -1,0 +1,8 @@
+---
+date:   2015-10-29 12:00:00
+---
+
+# Pun of the day ({{ page.date | date: "%F" }})
+
+In democracy your vote counts. In feudalism, your count votes.
+
