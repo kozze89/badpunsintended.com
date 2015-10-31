@@ -1,0 +1,8 @@
+---
+date:   2015-10-31 12:00:00
+---
+
+# Pun of the day ({{ page.date | date: "%F" }})
+
+England has no kidney bank, but it does have a Liverpool.
+
