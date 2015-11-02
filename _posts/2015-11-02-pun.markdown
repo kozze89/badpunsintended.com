@@ -1,0 +1,8 @@
+---
+date:   2015-11-02 12:00:00
+---
+
+# Pun of the day ({{ page.date | date: "%F" }})
+
+Doctors tell us there are over seven million people who are overweight. These, of course, are only round figures.
+
