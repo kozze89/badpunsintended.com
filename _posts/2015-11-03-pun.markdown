@@ -1,0 +1,8 @@
+---
+date:   2015-11-03 12:00:00
+---
+
+# Pun of the day ({{ page.date | date: "%F" }})
+
+Bakers trade bread recipes on a knead-to-know basis.
+
