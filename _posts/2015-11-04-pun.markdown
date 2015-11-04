@@ -1,0 +1,8 @@
+---
+date:   2015-11-04 12:00:00
+---
+
+# Pun of the day ({{ page.date | date: "%F" }})
+
+I got a job at a bakery because I kneaded dough.
+
