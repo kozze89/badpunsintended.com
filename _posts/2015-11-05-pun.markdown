@@ -1,0 +1,8 @@
+---
+date:   2015-11-05 12:00:00
+---
+
+# Pun of the day ({{ page.date | date: "%F" }})
+
+PMS jokes aren’t funny. Period.
+
