@@ -1,0 +1,8 @@
+---
+date:   2015-11-09 12:00:00
+---
+
+# Pun of the day ({{ page.date | date: "%F" }})
+
+A cartoonist was found dead in his home. Details are sketchy.
+
